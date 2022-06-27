@@ -1,4 +1,4 @@
-# IBM-Data-Science-Professional-Certificate
+# IBM_Data_Science_Professional_Certificate
 https://www.coursera.org/professional-certificates/ibm-data-science
 
 Professional certification from IBM has 10 courses:
